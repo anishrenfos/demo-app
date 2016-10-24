@@ -9,4 +9,5 @@ The application is created in order to provide the below mentioned specialities:
    - By Hotel Name
   3. Rating Functionality
   4. API tools
-  [Contact Us](anish@renfos.com)
+  [*__Drop me__*](anish@renfos.com)
+  
