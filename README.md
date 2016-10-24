@@ -10,5 +10,5 @@ The application is created in order to provide the below mentioned specialities:
   3. Rating Functionality
   4. API tools
   
-  [*_Drop me_*](www.renfos.com)
+  [*_Drop me_*](http://www.renfos.com)
   
