@@ -9,6 +9,6 @@ The aim of this repositoryis to remotely manage the rating/voting system for any
 2. [Support](http://www.google.com)
 
 ### Checklist
-[x] test check part - 1
-[ ] test check part - 2
-[ ] test check part - 3
+- [x] test check part - 1
+- [ ] test check part - 2
+- [ ] test check part - 3
