@@ -4,10 +4,10 @@ A demo application repository which helps you in the demonstration of posting re
 The application is created in order to provide the below mentioned specialities:
  1. Quick Review Posting
  2. Application Search/Custom Search
-  1. By Location
-  2. By Keyword
-   1. Make the headings bigger
-  3. By Hotel Name
+  * By Location
+  * By Keyword
+   * Make the headings bigger
+  * By Hotel Name
  3. Rating Functionality
  4. API tools
   * Free
