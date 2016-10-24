@@ -1,18 +1,9 @@
-# dineapp
-A demo application repository which helps you in the demonstration of posting reviews on any hotels/restaurants
-## Features
-The application is created in order to provide the below mentioned specialities:
- 1. Quick Review Posting
- 2. Application Search/Custom Search
-  * By Location
-  * By Keyword
-   * Make the headings bigger
-  * By Hotel Name
- 3. Rating Functionality
- 4. API tools
-  * Free
-  * Paid
+1. Make my changes
+  1. Fix bug
+  2. Improve formatting
+    * Make the headings bigger
+2. Push my commits to GitHub
+3. Open a pull request
+  * Describe my changes
+  * Mention all the members of my team
     * Ask for feedback
-  
- 
-  
