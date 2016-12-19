@@ -26,4 +26,5 @@ All the values you have previously entered will populate on the form. You can na
 
 #### Deleting a block
 To delete a block please click on the button. When triggering that button you will be prompted with a warning whether you’re sure to delete the targeted block.
+
 ![delete prompt](https://raw.githubusercontent.com/LavaLite/docs/master/images/blocks/deletion-prompt.png)
