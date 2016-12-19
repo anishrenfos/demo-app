@@ -33,8 +33,5 @@ All the values you have previously entered will populate on the form. You can na
 
 #### Deleting a Page
 To delete a page please click on the ![Delete Button](https://raw.githubusercontent.com/LavaLite/docs/master/images/pages/page-buttons/menu-delete-button.png). button. When triggering that button you will be prompted with a warning whether you’re sure to delete the targeted page.
+
 ![delete prompt](https://raw.githubusercontent.com/LavaLite/docs/master/images/blocks/deletion-prompt.png)
-
-
-
-
